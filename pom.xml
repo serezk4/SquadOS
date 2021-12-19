@@ -29,7 +29,7 @@
         <jda.ver>4.2.0_214</jda.ver>
         <org.json.ver>20200518</org.json.ver>
         <slf4j.ver>1.7.30</slf4j.ver>
-        <log4j.ver>2.14.0</log4j.ver>
+        <log4j.ver>2.17.0</log4j.ver>
         <mysql.connector.ver>8.0.22</mysql.connector.ver>
     </properties>
 
