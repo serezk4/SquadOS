@@ -27,7 +27,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <lavaplayer.ver>1.3.50</lavaplayer.ver>
         <jda.ver>4.2.0_214</jda.ver>
-        <org.json.ver>20200518</org.json.ver>
+        <org.json.ver>20231013</org.json.ver>
         <slf4j.ver>1.7.36</slf4j.ver>
         <log4j.ver>2.14.0</log4j.ver>
         <mysql.connector.ver>8.0.33</mysql.connector.ver>
